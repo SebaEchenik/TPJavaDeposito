@@ -71,7 +71,7 @@ public class AccesoAlSistemaDeposito{
             
             case 6:
             System.out.println("Salir");
-            //salida = true;
+            
 
             default:
             break;
